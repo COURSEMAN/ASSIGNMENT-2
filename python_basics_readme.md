@@ -10,6 +10,7 @@ A simple program that determines whether a given number is even or odd using con
 ### Task 2: Sum of Numbers from 1 to 50
 A program that calculates the sum of all integers from 1 to 50 using a for loop.
 
+### Running the Programs
 
 1. Run the programs:
 ```bash
@@ -19,7 +20,6 @@ python even_odd_checker.py
 # For Task 2
 python sum_1_to_50.py
 ```
-
 ## 📖 Task Details
 
 ### Task 1: Even or Odd Number Checker
@@ -32,6 +32,8 @@ Enter a number: 7
 Enter a number: 12
 12 is an even number.
 ```
+
+### Task 2: Sum of Numbers from 1 to 50
 
 **Sample Output:**
 ```
